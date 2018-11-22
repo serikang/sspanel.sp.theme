@@ -4,7 +4,7 @@
   - 全新架构（非bootstrap，优化JS加载，优化用户体验）
   - 清新配色（绿色安全耐看）
   - 适配版本（91版，nimaqu版）
-- 作者：阿狸 | 联系方式：[https://t.me/serikang](https://t.me/serikang)  | 官网：[https://theme.pitao.one](https://theme.pitao.one)
+- 作者：阿狸 | 联系方式：[https://t.me/serikang](https://t.me/serikang)  | 官网：[https://t.pitao.one](https://t.pitao.one)
 - 有意者请联系阿狸
 
 # 主题部分截图预览
@@ -35,5 +35,5 @@
   - 全新架构（非bootstrap，优化JS加载，优化用户体验）
   - 清新配色（绿色安全耐看）
   - 适配版本（91版，nimaqu版）
-- 作者：阿狸 | 联系方式：[https://t.me/serikang](https://t.me/serikang)  | 官网：[https://theme.pitao.one](https://theme.pitao.one)
+- 作者：阿狸 | 联系方式：[https://t.me/serikang](https://t.me/serikang)  | 官网：[https://t.pitao.one](https://t.pitao.one)
 - 有意者请联系阿狸
