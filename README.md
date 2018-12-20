@@ -7,7 +7,7 @@
 - 作者：阿狸 | 联系方式：[https://t.me/serikang](https://t.me/serikang)  | 官网：[https://t.pitao.one](https://t.pitao.one)
 - 有意者请联系阿狸
 # tg通知频道
-- 欢迎关注JOIN [戳这里](https://t.me/joinchat/AAAAAFla4JFo0OY_AVMr-A)
+- 欢迎关注JOIN [戳这里https://t.me/seritheme](https://t.me/seritheme)
 
 # 主题部分截图预览
 
