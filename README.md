@@ -1,3 +1,6 @@
+# 支付推荐
+- TrimePay 支付宝 微信都支持  [戳这里注册](https://portal.trimepay.com/#/auth/register/340)
+
 # SSpanel V3 mod 原创主题
 - 主题名：Sp theme
 - 主题介绍：
