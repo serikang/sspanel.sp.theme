@@ -5,11 +5,11 @@
   - 清新配色（绿色安全耐看）
   - 适配版本（91版，nimaqu版）
 - 作者：阿狸 | 联系方式：[tg号](https://t.me/serikang)
-- 官网：[https://t.pitao.one](https://t.pitao.one)
+- 官网：[https://91pitao.tk/](https://91pitao.tk/)
 - 有意者请联系阿狸
 
 # 更多截图&报价 暂无demo
-- [戳这里查看](https://t.pitao.one/sp-vip/)
+- [戳这里查看](https://91pitao.tk/sp-vip/)
 
 # 联系阿狸
 - [戳这里联系阿狸](https://t.me/serikang)
@@ -49,11 +49,11 @@
   - 清新配色（绿色安全耐看）
   - 适配版本（91版，nimaqu版）
 - 作者：阿狸 | 联系方式：[tg号](https://t.me/serikang)
-- 官网：[https://t.pitao.one](https://t.pitao.one)
+- 官网：[https://91pitao.tk/](https://91pitao.tk/)
 - 有意者请联系阿狸
 
 # 更多截图&报价 暂无demo
-- [戳这里查看](https://t.pitao.one/sp-vip/)
+- [戳这里查看](https://91pitao.tk/sp-vip/)
 
 # 联系阿狸
 - [戳这里联系阿狸](https://t.me/serikang)
