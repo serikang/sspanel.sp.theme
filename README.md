@@ -8,7 +8,7 @@
 - 官网：[https://t.pitao.one/](https://t.pitao.one)
 - 有意者请联系阿狸
 
-#已适配的支付
+# 已适配的支付
 - f2f bitpay tomatopay flyfoxpay （发卡也可以）
 - 推荐Bitpay [戳这里注册](https://merchants.mugglepay.com/user/register?ref=MP38288B9D)
 
@@ -45,7 +45,7 @@
 - 官网：[https://t.pitao.one](https://t.pitao.one/)
 - 有意者请联系阿狸
 
-#已适配的支付
+# 已适配的支付
 - f2f bitpay tomatopay flyfoxpay （发卡也可以）
 - 推荐Bitpay [戳这里注册](https://merchants.mugglepay.com/user/register?ref=MP38288B9D)
 
